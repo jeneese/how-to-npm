@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeneese/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeneese/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jeneese/how-to-npm#readme",
   "description": ""
 }
